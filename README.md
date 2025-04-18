@@ -33,16 +33,16 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tientranviet-0507xx/">
-    <img src="https://camo.githubusercontent.com/6e6f6848e97889deea2787cef6b145fbf444956ff08df59cc05a0783c7580c0a/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3130302f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn Badge"/>
+    <img src="	https://camo.githubusercontent.com/8d89f0b27fe7c2e…32f3130302f3030303030302f6c696e6b6564696e2e706e67" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCnLLloYlqSiDVTEEsG4ZDIw">
-    <img src="https://camo.githubusercontent.com/840b935f3a3814d0acd5ad1a373f8fdd2dab42cdda1ca97957baae0042da2f06/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3130302f3030303030302f796f75747562652d737175617265642e706e67" alt="Youtube Badge"/>
+    <img src="https://camo.githubusercontent.com/a0624d05ecfd34a63d58fc44121c0022929362a7315f5874012040fb4232957e/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3130302f3030303030302f796f75747562652d737175617265642e706e67v" alt="Youtube Badge"/>
   </a>
   <a href="https://www.facebook.com/tien.tranviet.3975">
     <img src="https://camo.githubusercontent.com/d0c4102b8c28cbdee90ac6da8f126a0fc8e48779a0a8c500aebe4fb2daded2e2/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3130302f3030303030302f66616365626f6f6b2d6e65772e706e67" alt="FaceBook Badge"/>
   </a>
   <a href="https://www.instagram.com/tientran.0507xx/">
-    <img src="https://camo.githubusercontent.com/4f9806e71f499e9cc0c0a13b5ef49eae2c2fb9fb40f335194ff3cf36cf2847b2/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3130302f3030303030302f696e7374616772616d2e706e67" alt="Instagram Badge"/>
+    <img src="	https://camo.githubusercontent.com/a41ac16c7b47b4d…f3130302f3030303030302f696e7374616772616d2e706e67" alt="Instagram Badge"/>
   </a>
   
 </div >
